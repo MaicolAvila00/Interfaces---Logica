@@ -144,14 +144,6 @@ Los campos vacíos se validan y muestran un mensaje antes de procesar.
 - Separación en capas: modelo, lógica y vista.
 - Eventos y componentes de Swing: pestañas, formularios, `JComboBox`, `JCheckBox`, `JTextArea` y diálogos.
 
-## Posibles mejoras
-
-- Que **Deshacer** revierta de verdad el efecto de la acción y no solo la retire del historial.
-- Validar códigos de estudiante duplicados.
-- Mostrar en la interfaz la fila de espera del banco (el método `obtenerPendientes()` ya existe).
-- Pruebas unitarias con JUnit para la capa de lógica.
-- Persistencia en SQLite o MySQL.
-- Migrar la lógica a una API con Spring Boot y una interfaz web.
 
 ## Autor
 
