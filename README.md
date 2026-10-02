@@ -8,7 +8,7 @@ Aplicación de escritorio en **Java 21 + Swing** que resuelve cuatro problemas c
 
 | Estudiantes | Deshacer |
 |---|---|
-| ![Estudiantes](docs/estudiantes.png) | ![Deshacer](docs/deshacer.png) |
+| ![Estudiantes](estudiantes.png) | ![Deshacer](docs/deshacer.png) |
 
 | Banco | Evento |
 |---|---|
