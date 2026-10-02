@@ -8,11 +8,11 @@ Aplicación de escritorio en **Java 21 + Swing** que resuelve cuatro problemas c
 
 | Estudiantes | Deshacer |
 |---|---|
-| ![Estudiantes](estudiantes.png) | ![Deshacer](docs/deshacer.png) |
+| ![Estudiantes](estudiantes.png) | ![Deshacer](deshacer.png) |
 
 | Banco | Evento |
 |---|---|
-| ![Banco](docs/banco.png) | ![Evento](docs/evento.png) |
+| ![Banco](banco.png) | ![Evento](evento.png) |
 
 ## Módulos
 
